@@ -44,10 +44,10 @@ ${data.installation}
 ${data.usage}
 
 ## Contributing
-${data.contributing}
+${data.contribution}
 
 ## Tests
-${data.tests}
+${data.test}
 
 ${renderLicenseSection(data.license)}
 

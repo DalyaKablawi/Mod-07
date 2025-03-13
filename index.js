@@ -17,22 +17,22 @@ const questions = [
   },
   {
     type: "input",
-    name: "installation instructions",
+    name: "installation",
     message: "Outline the installation instructions",
   },
   {
     type: "input",
-    name: "usage information",
+    name: "usage",
     message: "Instructions for use:",
   },
   {
     type: "input",
-    name: "contribution guidelines",
+    name: "contribution",
     message: "Contribution guidelines:",
   },
   {
     type: "input",
-    name: "test instructions",
+    name: "test",
     message: "Test instructions:",
   },
   {
