@@ -57,4 +57,4 @@ ${renderLicenseSection(data.license)}
 `;
 }
 
-export default generateMarkdown;
+module.exports = generateMarkdown;
