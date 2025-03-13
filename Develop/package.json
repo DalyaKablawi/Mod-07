@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DalyaKablawi/Mod-07/issues"
   },
-  "homepage": "https://github.com/DalyaKablawi/Mod-07#readme"
+  "homepage": "https://github.com/DalyaKablawi/Mod-07#readme",
+  "dependencies": {
+    "inquirer": "^12.4.3"
+  }
 }
