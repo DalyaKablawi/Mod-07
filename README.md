@@ -1,9 +1,9 @@
-# MY-Repo
+# Module 7 HW README.md Dynamic Generation
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-Example repo
+This project dynamically generates a README.md for any project through Node.js
 
 ## Installation
 undefined
